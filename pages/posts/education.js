@@ -31,27 +31,26 @@ export default function Education() {
         <section>
                 <h2 className= {educationStyle.h2}>Education</h2>
                 <article>
-                    <h3 className= {educationStyle.eduTitle}><u> Masters in Data Science | New Jersey Institute of Technology, Newark, NJ, USA</u></h3>
+                    <h3 className= {educationStyle.eduTitle}><u> Masters in Management | New Jersey Institute of Technology, Newark, NJ, USA</u></h3>
                     <div className= {educationStyle.desc}>
-                        <h4> 09/2022 - 05/2024 </h4>
+                        <h4> 2023 - 2024 </h4>
                         
                         <ul>
-                            <li>GPA: 3.5 </li>
-                            <li> Major: Machine Learning, Big Data, Deep Learning, Applied Statistics, Programming with R.</li>
-                            <li> Minor: Corporate Finance, Database Management, Data Mining, Web System Development</li>
+                            <li>GPA: 4 </li>
+                            <li> Major: Decision Analysis, Data Mining, Enterprise Database Management, Web Systems Development</li>
+                            <li> Minor: Corporate Finance, Project Management, Global Marketing</li>
                         </ul>
                     </div>
                 </article>
 
                 <article>
-                    <h3 className= {educationStyle.eduTitle}><u> Bachelor of Computer Engineering | Gujarat Technological University, INDIA </u></h3>
+                    <h3 className= {educationStyle.eduTitle}><u> Bachelor of Engineering (EC) | Rajiv Gandhi Proudyogiki Vishwavidyalaya, India </u></h3>
                     <div className= {educationStyle.desc}>
-                        <h4>08/2017 - 08/2020 </h4>
+                        <h4> 2013 - 2017 </h4>
                         
                         <ul>
-                            <li> GPA: 3.6 </li>
-                            <li> Major US Equivalent: Computer Engineering</li>
-                            <li> Course Highlights: Web Design, Cyber Security, Java/C/VB Programming, IT Project Management, Database Programming, Python, Artificial Intelligence.</li>
+                            <li> GPA: 3.7 </li>
+                            <li> Course Highlights: VLSI, Microprocessors, Digital Signal Processing, Embedded System Design</li>
                             <li> Project: Classifications of Human Cell using image processing & python libraries, Rural Area Blood Donation website using HTML, PHP, CSS.</li>
                         </ul>
                     </div>
