@@ -1,6 +1,6 @@
 # Portfolio-Project
 
-Figma - 
+Figma - https://www.figma.com/file/QJCL0JbqFygvjUGzf6pbz0/Portfolio-Project?type=design&mode=design&t=pa2PsOR9jjjqzryV-0
 
 Video - 
 
