@@ -1,6 +1,6 @@
 .h1_edu{
     color: #FFF;
-    font-family: Poppins;
+    font-family: Gill Sans;
     font-size: 50px;
     font-style: normal;
     font-weight: 400;
@@ -9,8 +9,8 @@
 }
 
 .h2{
-    color: #FFF;
-    font-family: Poppins;
+    color: #0f0f0f;
+    font-family: Gill Sans;
     font-size: 35px;
     font-style: normal;
     font-weight: 300;
@@ -21,8 +21,8 @@
 }
 
 .eduTitle{
-    color: #FFF;
-    font-family: Poppins;
+    color: #0c0c0c;
+    font-family: Gill Sans;
     font-size: 20px;
     font-style: normal;
     font-weight: 300;
@@ -32,7 +32,7 @@
 }
 
 .desc{
-    color: #FFF;
+    color: #070707;
     text-align: left;
     font-size: 20px;
     font-style: normal;
