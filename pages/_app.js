@@ -9,7 +9,7 @@ import React, {useEffect} from "react";
 // const gId = process.env.G_ID_KEY;
 
 const tagManagerArgs = {
-  gtmId: 'GTM-5B3JZVLN',
+  gtmId: 'GTM-5C9KZRZC',
 }
 const MyApp = ({ Component, pageProps }) => {
   useEffect(() => {
