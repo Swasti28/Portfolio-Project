@@ -58,27 +58,24 @@ export default function AboutMePost() {
       <section>
             <h2 className= {aboutStyle.h2}>Experience</h2>
             <article>
-                  <h3 className= {aboutStyle.jobTitle}><u> Data Analytics Specialist | Selective Insurance Company of America, Branchville, NJ, USA </u></h3>
+                  <h3 className= {aboutStyle.jobTitle}><u> Associate | Rackspace Technology </u></h3>
                   <div className= {aboutStyle.desc}>
-                        <h4> 03/2023 - Present </h4>
+                        <h4> 07/2021 - 12/2022 </h4>
 
-                        <p> Part of an Internal Audit to bring a systematic, disciplined approach to evaluate and improve the effectiveness of risk management. 
-                              Work primarily on Alteryx for understanding the dataset supporting the auditors review the policies and rules efficiently. 
-                              Work with the independent team reporting directly to the board of committee. 
-                              Act as a third line of defense. 
-                              Further reviewing the dataset quarterly and projecting the result in the form of visualization, creating dashboard using Power BI. </p>
+                        <p> Responsible for creatively managing the relationship for Onica, an AWS Partner Network (APN) Premier Consulting Partner and Managed Service Provider, supporting nearly 1,000 individual customers leveraging AWS.
+                              Strategically manage an account base of 1000+ customers by providing IT infrastructure consulting across a vast portfolio of services and products that include AWS. </p>
                   </div>
             </article>
             <article>
-                  <h3 className= {aboutStyle.jobTitle}><u> Data Analyst | Evernorth Health Services (Cigna) | Morris Plains, NJ, USA </u></h3>
+                  <h3 className= {aboutStyle.jobTitle}><u> Change Management Specialist | Orange Business Services </u></h3>
                   
                   <div className= {aboutStyle.desc}>
-                        <h4> 06/2021 - 01/2023 </h4>
+                        <h4> 07/2017 - 04/2021 </h4>
 
-                        <p> Part of a RFSO team helping in providing data project execution and operations support. 
-                              Work primarily on Alteryx to think strategically about data and maintaining the correct flow of data. 
-                              Work under the agile methodology, supporting the development team to forecast future data manipulations due to change in Medicare/Medicaid. 
-                              Campion to drive projects from inception to delivery by working with senior leader and business partners.</p>
+                        <p> Successfully onboarding new customers by designing plans for training, implementation & mutual success.
+                              Maintaining high satisfaction index for customers of Orange by ensuring standardisation in process adherence & agility in task resolution.
+                              Spearheading support & change management for 6 critical projects having combined spend of $500k+.
+                              Resourceful in implementing strategic plans for query resolution, maintaining SLA across different type of processes and guidelines.</p>
                   </div>
                 </article>
       </section>
@@ -87,10 +84,10 @@ export default function AboutMePost() {
             <div className= {aboutStyle.passion}>
                   <div className= {aboutStyle.passionDesc}>
                         <h3 className= {aboutStyle.passionTitle}>
-                              Passionate Data-Driven Problem Solvers
+                              Passionate Data-Driven Problem Solver
                         </h3>
                         <p>Passionate about using data to solve complex problems. 
-                              Ability to demonstrate a systematic and disciplined approach to evaluate and improve risk management in their work as an Internal Auditor.</p>
+                              Ability to demonstrate a systematic and disciplined approach to evaluate and improve risk management in their work.</p>
                   </div>
 
                   
