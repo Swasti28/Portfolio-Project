@@ -1,6 +1,6 @@
 .h1_about{
     color: #FFF;
-    font-family: Poppins;
+    font-family: Gill Sans;
     font-size: 50px;
     font-style: normal;
     font-weight: 400;
@@ -10,7 +10,7 @@
 
 .h2{
     color: #111010;
-    font-family: Poppins;
+    font-family: Gill Sans;
     font-size: 35px;
     font-style: normal;
     font-weight: 300;
@@ -42,7 +42,7 @@
 
 .jobTitle{
     color: #131212;
-    font-family: Poppins;
+    font-family: Gill Sans;
     font-size: 20px;
     font-style: normal;
     font-weight: 300;
@@ -64,7 +64,7 @@
 
 .passionTitle{
     color: #000;
-    font-family: Poppins;
+    font-family: Gill Sans;
     font-size: 20px;
     font-style: normal;
     font-weight: 300;
