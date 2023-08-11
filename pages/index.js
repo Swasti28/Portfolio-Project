@@ -37,7 +37,7 @@ export default function Home() {
             <h1 className= {mainStyles.h1}> I’m Swasti Johri</h1>
             <h1 className= {mainStyles.h1_2}>Master Of Management Student</h1>
             <div className= {mainStyles.subtext}>
-            Data Driven Business Analyst Specalist
+            Business Analyst Specalist
             </div>
           </div>
 
