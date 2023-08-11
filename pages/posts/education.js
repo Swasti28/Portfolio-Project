@@ -49,21 +49,9 @@ export default function Education() {
                         <h4> 2013 - 2017 </h4>
                         
                         <ul>
-                            <li> GPA: 3.7 </li>
+                            <li> GPA: 3.72 </li>
                             <li> Course Highlights: VLSI, Microprocessors, Digital Signal Processing, Embedded System Design</li>
-                            <li> Project: Classifications of Human Cell using image processing & python libraries, Rural Area Blood Donation website using HTML, PHP, CSS.</li>
-                        </ul>
-                    </div>
-                </article>
-
-                <article>
-                    <h3 className= {educationStyle.eduTitle}><u> Data Analytics Bootcamp Certificate | Rutgers University, New Brunswick, NJ, USA </u></h3>
-                    <div className= {educationStyle.desc}>
-                        <h4>01/2021 - 07/2021 </h4>
-
-                        <ul>
-                            <li> A 24-week intensive program focused on gaining technical programming skills in Excel, VBA, Python, R, JavaScript, Pandas, Matplotlib, Python API, MongoDB, SQL Databases, Tableau, Big Data, Machine Learning, and Deep Learning, Data Analysis.</li>
-                            <li> Handle Project and manage the team work, also perform tasks individually.</li>
+                            <li> Project: Women Safety Device using GPS and GSM</li>
                         </ul>
                     </div>
                 </article>
