@@ -9,7 +9,7 @@
 .logoname {
     text-decoration: none;
     color: #6F5353;
-    font-family: Outfit;
+    font-family: Gill Sans;
     font-size: 50px;
     font-style: normal;
     font-weight: 700;
@@ -25,7 +25,7 @@
 
 .homelink{
     color: #121212;
-    font-family: Poppins;
+    font-family: Gill Sans;
     font-size: 50px;
     font-style: normal;
     font-variant-caps: all-petite-caps;
@@ -37,7 +37,7 @@
   
 .links {
     color: #191818;
-    font-family: Poppins;
+    font-family: Gill Sans;
     font-size: 30px;
     font-style: normal;
     font-variant-caps: all-petite-caps;
@@ -81,7 +81,7 @@
     display: flex;
     margin: 0;
     color: #3a0c5b;
-    font-family: Poppins;
+    font-family: Gill Sans;
     font-size: 50px;
     font-style: normal;
     font-weight: 600;
@@ -90,7 +90,7 @@
 
 .h2{
     color: #080707;
-    font-family: Poppins;
+    font-family: Gill Sans;
     font-size: 25.405px;
     font-style: normal;
     font-weight: 300;
@@ -101,7 +101,7 @@
 
 .h1_2{
     color: #0b0b0b;
-    font-family: Poppins;
+    font-family: Gill Sans;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
@@ -117,7 +117,7 @@
 
 .subtext{
     color: #0f0e0e;
-    font-family: Poppins;
+    font-family: Gill Sans;
     font-size: 20px;
     font-style: normal;
     font-weight: 300;
@@ -161,7 +161,7 @@
 
 .h1_project{
     color: #090909;
-    font-family: Poppins;
+    font-family: Gill Sans;
     font-size: 50px;
     font-style: normal;
     font-weight: 400;
@@ -220,7 +220,7 @@
   
 .footertitle {
     color: #000000;
-    font-family: Outfit;
+    font-family: Gill Sans;
     font-size: 22px;
     font-style: normal;
     font-weight: 700;
@@ -240,7 +240,7 @@
 
 .footerlink a{
     color: #000000;
-    font-family: Outfit;
+    font-family: Gill Sans;
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
@@ -257,7 +257,7 @@
 
 .h2_sub{
     color: #000;
-    font-family: Poppins;
+    font-family: Gill Sans;
     font-size: 25.405px;
     font-style: normal;
     font-weight: 300;
@@ -337,7 +337,7 @@
 input.footertext {
     color: #000;
     /* sub header */
-    font-family: Poppins;
+    font-family: Gill Sans;
     font-size: 15px;
     font-style: normal;
     font-weight: 700;
