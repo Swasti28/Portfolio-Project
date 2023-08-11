@@ -34,10 +34,10 @@ export default function Home() {
           <div className= {mainStyles.hero}>
 
             <h2 className= {mainStyles.h2}> Welcome</h2>
-            <h1 className= {mainStyles.h1}> I’m Ravikumar Patel</h1>
-            <h1 className= {mainStyles.h1_2}>Master Of Data Science Student</h1>
+            <h1 className= {mainStyles.h1}> I’m Swasti Johri</h1>
+            <h1 className= {mainStyles.h1_2}>Master Of Management Student</h1>
             <div className= {mainStyles.subtext}>
-            Data Driven Data Analyst Specalists
+            Data Driven Business Analyst Specalist
             </div>
           </div>
 
@@ -54,7 +54,7 @@ export default function Home() {
         
         <section className= {mainStyles.bio}>
           <div >
-              <p>Highly motivated technology graduate seeking a challenging opportunity to learn and gain experience to enhance career and support goals of a growth-oriented organization. Also, a driven Data Analyst with a passion for condensing large data into a business strategy. Quickly adept at working independently and collaborating with a team by guiding and breaking the workload to diverse audiences. Detailed oriented, critical thinker who is versatile to adopt the modern working environment.</p>
+              <p>Eager and driven recent technology graduate looking for a stimulating chance to acquire knowledge and hands-on experience, aiming to advance my career and contribute to the growth-focused objectives of an organization. Additionally, a motivated Business Analyst with a strong interest in transforming extensive data into effective business plans. Rapidly skilled in both independent work and team collaboration, adept at guiding and distributing tasks among diverse groups. Attentive to details, analytical thinker, and adaptable to contemporary work settings.</p>
           </div>
         </section>
         <section className={mainStyles.subscribeSection}>
@@ -78,7 +78,7 @@ export default function Home() {
                         </div>
                         <div id="mergeRow-gdpr" className= {mainStyles.formText}>
                             <div className="content__gdpr">
-                                <p>Please select all the ways you would like to hear from Ravi:</p>
+                                <p>Please select all the ways you would like to hear from Swasti:</p>
                                 <fieldset name="interestgroup_field" className= {mainStyles.checkBox}>
                                     <label className="checkbox subfield" for="gdpr40083">
                                         <input type="checkbox" id="gdpr_40083" name="gdpr[40083]" ></input>
