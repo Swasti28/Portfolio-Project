@@ -253,7 +253,6 @@
     display: flex;
     justify-content: center;
     border: 4px solid #f6f4f2;
-    background: linear-gradient(314deg, #91c1ee 0%, #c89898 52.03%, #e66b32 100%);
 }
 
 .h2_sub{
