@@ -17,7 +17,7 @@ import utilStyles from '../styles/main.module.css';
 import Link from 'next/link';
 import Header from './header';
 
-const name = 'Ravikumar Patel';
+const name = 'Swasti Johri';
 export const siteTitle = 'Next.js Sample Website';
 
 export default function Layout({ children, home }) {

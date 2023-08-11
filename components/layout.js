@@ -6,7 +6,7 @@ import styles from './layout.module.css';
 import Header from './header';
 import Footer from './footer';
 
-const name = 'Ravikumar Patel';
+const name = 'Swasti Johri';
 export const siteTitle = 'MY Portfolio';
 
 export default function Layout({ children, home }) {

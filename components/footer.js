@@ -58,8 +58,8 @@ export default function Footer() {
         <div className={mainStyles.footerlink}>
 
             <a href="mailto:example@example.com"><FontAwesomeIcon icon={faEnvelope} /> Email</a>
-            <a href="https://www.linkedin.com/in/ravi-patel-0113"><FontAwesomeIcon icon={faLinkedin} /> LinkedIn</a>
-            <a href="https://github.com/ravipatel0113"><FontAwesomeIcon icon={faGithub} /> GitHub</a>
+            <a href="https://www.linkedin.com/in/swasti-johri"><FontAwesomeIcon icon={faLinkedin} /> LinkedIn</a>
+            <a href="https://github.com/swasti28"><FontAwesomeIcon icon={faGithub} /> GitHub</a>
             <a href="https://twitter.com/"><FontAwesomeIcon icon={faTwitter} /> Twitter</a>
         </div>
         </footer>
